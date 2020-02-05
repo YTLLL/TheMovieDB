@@ -1,4 +1,4 @@
-# team8-challenge9
+# MovieDB Project
 Yutian Lei, Jared Lai, Trevor Leung, Toan Vo
 
 This app will be able to report information on a movie that the user searches. 
@@ -10,17 +10,7 @@ are watching. Other features will include a compare capability that will compare
 movies side by side, and a save function to save your favorite movies. As we go on, we may try 
 to add some features. We plan to use bootstrap for now to style our app.
 
-Tentative list of tasks
-<ul>
-<li>CSS: Jared</li>
-<li>Compare: Trevor</li>
-<li>Parsing/data display: Yutian</li>     
-<li>Save list function: Toan</li>
-</ul>
 
 We will be using [the Movie Database API](https://www.themoviedb.org/documentation/api).
 
 
-This is the gh-pages url:
-
-info340c-au19.github.io/team8-challenge9
